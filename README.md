@@ -1,4 +1,4 @@
-# week05
+# week05.cpp
 
 
 #include <GL/glut.h>
