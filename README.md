@@ -1,6 +1,5 @@
 # week05.cpp
 
-
 #include <GL/glut.h>
 #include <stdio.h>
 float vx[2000], vy[2000];
